@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivijayc47
 - 👀 I’m interested in technology startups
-- 💞️ I’m looking to collaborate on Collab.deals (Influencer marketing software) 
+- 💞️ I’m looking to collaborate on http://collab.deals/ (Influencer marketing software) 
 - 📫 Connect with me at https://twitter.com/iVijayC or email vijay@collab.deals
 
 <!---
